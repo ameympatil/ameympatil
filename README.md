@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently working as a **Data Scientist at Codvo.ai**
-- 🎓 M.S. in Data Science & Big Data Analytics from MIT Pune (CGPA: 9.6/10)
+- 🎓 MSc. in Data Science & Big Data Analytics from MIT Pune (CGPA: 9.6/10)
 - 🌱 Specializing in **LLMs, RAG Architecture, and AI-powered Solutions**
 - 💡 1.5+ years of experience in developing end-to-end ML pipelines
 - 👯 Open to collaborate on **Machine Learning and NLP Projects**
