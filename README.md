@@ -8,24 +8,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently working as a **Data Scientist at Codvo.ai**
-- 🎓 MSc. in Data Science & Big Data Analytics from MIT Pune (CGPA: 9.6/10)
 - 🌱 Specializing in **LLMs, RAG Architecture, and AI-powered Solutions**
-- 💡 1.5+ years of experience in developing end-to-end ML pipelines
 - 👯 Open to collaborate on **Machine Learning and NLP Projects**
-
-### 🚀 Recent Projects
-
-- **Product Classification Engine (2024)**
-  - Built an end-to-end ML pipeline for automatic product classification with 85%+ accuracy
-  - Implemented distributed web scraping architecture using Selenium and BeautifulSoup
-
-- **Intelligent Document Generation System (2024)**
-  - Developed LLM-based document automation reducing processing time by 95%
-  - Implemented advanced prompt engineering for high-quality content generation
-
-- **Web Query AI Bot (2023)**
-  - Created a RAG-based query system using Azure AI Search and LLMs
-  - Implemented sophisticated content chunking and embedding strategies
 
 ### 🛠 Technical Stack
 
